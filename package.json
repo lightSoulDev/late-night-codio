@@ -1,8 +1,11 @@
 {
   "name": "late-night-codio",
-  "displayName": "late-night-codio",
+  "displayName": "Late Night Codio",
   "description": "An ideal theme for coding in the dark, striking the perfect equilibrium between pleasant readability and a subdued brightness, aligning seamlessly with my preferences.",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "publisher": "LightSoulDev",
+  "repository": "https://github.com/lightSoulDev/late-night-codio",
   "engines": {
     "vscode": "^1.83.0"
   },
