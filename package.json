@@ -1,0 +1,21 @@
+{
+  "name": "late-night-codio",
+  "displayName": "late-night-codio",
+  "description": "An ideal theme for coding in the dark, striking the perfect equilibrium between pleasant readability and a subdued brightness, aligning seamlessly with my preferences.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Late Night Codio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Late Night Codio-color-theme.json"
+      }
+    ]
+  }
+}
