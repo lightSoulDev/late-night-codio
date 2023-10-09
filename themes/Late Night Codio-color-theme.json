@@ -1149,7 +1149,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#e5c890"
+				"foreground": "#a6d189"
 			}
 		},
 		{
@@ -1162,7 +1162,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#e5c890"
+				"foreground": "#a6d189"
 			}
 		},
 		{
